@@ -149,7 +149,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 60px;
+  max-height: 150px;
 }
 
 
@@ -992,7 +992,7 @@ section {
 }
 
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("../img/portfolio/guardimage.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1018,7 +1018,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/portfolio/guardimage2.jpeg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
